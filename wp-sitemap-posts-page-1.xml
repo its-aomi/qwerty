@@ -1,3 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://its-aomi.github.io/qwerty/wp-sitemap.xsl" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://its-aomi.github.io/qwerty/</loc></url><url><loc>https://its-aomi.github.io/qwerty/about/</loc></url><url><loc>https://its-aomi.github.io/qwerty/contact/</loc></url><url><loc>https://its-aomi.github.io/qwerty/privacy-policy/</loc></url><url><loc>https://its-aomi.github.io/qwerty/terms-of-use/</loc></url><url><loc>https://its-aomi.github.io/qwerty/map/</loc></url><url><loc>https://its-aomi.github.io/qwerty/careers/</loc></url></urlset>
+<?xml-stylesheet type="text/xsl" href="./wp-sitemap.xsl" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>./index.html</loc></url><url><loc>./about/index.html</loc></url><url><loc>./contact/index.html</loc></url><url><loc>./privacy-policy/index.html</loc></url><url><loc>./terms-of-use/index.html</loc></url><url><loc>./map/index.html</loc></url><url><loc>./careers/index.html</loc></url></urlset>
